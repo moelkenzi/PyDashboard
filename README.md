@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [📄 LICENSE](LICENSE)
 ⭐️ Star us on GitHub — it helps us reach more developers! 🚀
 
 <p align="center">
-  <a href="https://github.com/moelkenzi/dashboard">
+  <a href="https://github.com/moelkenzi/PyDashboard">
     <img src="https://img.shields.io/github/stars/moelkenzi/dashboard?style=social" alt="GitHub stars">
   </a>
 </p>
