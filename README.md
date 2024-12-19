@@ -223,7 +223,7 @@ This project is licensed under the MIT License - see the [📄 LICENSE](LICENSE)
 
 <p align="center">
   <a href="https://github.com/moelkenzi/PyDashboard">
-    <img src="https://img.shields.io/github/stars/moelkenzi/dashboard?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/moelkenzi/PyDashboard?style=social" alt="GitHub stars">
   </a>
 </p>
 
